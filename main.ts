@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: Angelica Riego-O'Creen
+ * Created on: feb 2026
+ * This program runs Hello Angelica
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Angelica!')
